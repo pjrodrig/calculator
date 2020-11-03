@@ -1,0 +1,1 @@
+A simple calculator repository for the purpose of teaching git commands and techniques
